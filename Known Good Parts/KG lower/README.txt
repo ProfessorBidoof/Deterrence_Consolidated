@@ -1,0 +1,1 @@
+This lower is known to be to spec.  It has been used to make CNC parts, that then functioned on a real gun.
