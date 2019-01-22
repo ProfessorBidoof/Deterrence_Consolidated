@@ -1,0 +1,49 @@
+================================================================================================================================
+					           Corrected DD AR15 Model
+							     By:
+							    Jacob
+							    John
+							    Kyle
+================================================================================================================================
+
+This is, and has been, a massive project.  Lots had to be done to get this model to spec.
+
+But, as a result of much labor, many late nights turned early mornings, and plenty of deliberation, we have what we believe
+to be the most accurate complete 3D AR model in existence.  Manufacturers may have model of some parts or even the complete model, but they won't share. 
+Our goal is to spread this as wide as possible.  If someone had the means, we believe every part in this assembly could be made
+and assembled into a working firearm.
+
+This isn't the end of this endeavour - we still need to do rifle-length parts, Pmags, potentially an A1/A2 upper, and having
+a dynamic model (so you could play with springs) which would be nice as well.
+
+We had to create many parts from scratch and also created blue print accurate parts based on the models in the previous DD AR-15.  
+Everything in this assembly is believed to be good by us since most of the parts are dimensioned after original blueprints or were dimensioned after our own physical AR-15 parts.  
+
+Included is the model in different formats as well as the springs, for example the magazine spring in uncompressed form which you could use to wind your own mag spring to the correct dimensions.
+It is worth mentioning that the sub assemblies included in the .step format model are not congruent to the origin of the main assembly . The main assembly is fine, however.
+
+
+Changes from DD base version:
+
+******SEE DETAILED_NOTES.TXT FOR MORE INFO******
+
+- Added newly modeled lower receiver
+- Added newly modeled bolt
+- Added newly modeled magazine assembly
+- Added newly modeled forward assist assembly
+- Added newly modeled dust cover assembly
+- Added newly modeled disconnector
+- Added newly modeled cam pin
+- Added newly modeled handguard front cap
+- Added newly modeled barrel extension indexing pin
+- Added newly modeled swing swivel rivet
+- Added all newly modeled pins,springs,washers,detents and threads
+- Corrected upper receiver
+- Corrected bolt carrier
+- Corrected barrel
+- Corrected front sight/gas block
+- Corrected pistol grip
+- Corrected buffer tube
+- Corrected barrel extension
+- Corrected charging handle
+- Corrected charging handle latch

@@ -1,0 +1,48 @@
+================================================================================================================================
+					            Corrected AR15 Model 
+						    Detailed Change Notes
+================================================================================================================================
+
+Many parts had to be created from scratch because the original 3D model parts were so incorrectly dimensioned and modeled that it wasn't possible to just modify them. 
+Quite a few parts were actually non-existent in the original AR-15 model and thus had to be made from scratch as well. These follwing parts had to be heavily modified to result in blueprint accurate or at least functional parts.
+
+Upper Receiver
+	Pin hole for forward assist was wrong
+	Forward assist hole was wrong
+	'Mag seat' was way off
+        Charging Handle Cutout was wrong
+        Charging handle seat was wrong
+
+Bolt Carrier
+	Pick for rounds and reliefs for mag lips were done wrong
+
+Barrel
+	Barrel Needed holes 'drilled' for the gas block to pin on
+
+Gas Block/Sight
+	Gas block needed holes 'drilled' in the correct spots to line up right with the barrel
+
+Pistol Grip
+	Missed the cavity for the fire selector detent spring
+
+Buffer Tube
+        Needed slot cut for castle nut retaining plate
+
+Barrel Extension
+        Needed wider indexing pin hole as well as replacement of inappropriate screw to proper indexing pin
+
+Charging Handle
+        Needed to be narrowed on the T section, and thickened along the body
+
+Charging Handle Latch 
+        Needed to be thickened to spec
+
+Fire Control Group Disconnector	
+        Was modeled completely wrong. New disconnector is now on spec
+
+
+
+
+
+
+
